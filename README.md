@@ -1,4 +1,5 @@
 ### Hi there 👋
+A fullstack developer by day and an aeronautical engineering major by night
 
 <!--
 **JeanPaulSB/JeanPaulSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
