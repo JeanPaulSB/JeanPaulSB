@@ -1,5 +1,4 @@
-### Hi there 👋
-An aeronautical engineering major who loves to write code
+
 [![Jean Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanPaulSB)](https://github.com/JeanPaulSB/github-readme-stats)
 
 
