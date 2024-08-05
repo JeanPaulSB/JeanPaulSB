@@ -3,7 +3,7 @@
 [![Jean Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanPaulSB)](https://github.com/JeanPaulSB/github-readme-stats)
 
 # :cyclone: my social media
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jeanpaulsb/)
+
 
 
 # :jack_o_lantern: who am i
