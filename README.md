@@ -9,7 +9,7 @@
 # :jack_o_lantern: who am i
 
 
-- i'm an aeronautical engineering major :airplane: with a strong coding background and experience in fullstack development.
+- i'm an aeronautical engineer :airplane: with a strong coding background in robotics + machine learning + artificial intelligence
 - i enjoy building user experiences through frontend and backend development
 - my interests now lie on artificial intelligence, deep learning, neural networks and computer vision algorithms applied to unmanned aerial vehicles
 
